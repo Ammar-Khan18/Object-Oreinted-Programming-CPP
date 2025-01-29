@@ -1,4 +1,4 @@
-#include "InstanceCounter.h"
+#include "../headers/InstanceCounter.h"
 
 int InstanceCounter::count = 0;
 
