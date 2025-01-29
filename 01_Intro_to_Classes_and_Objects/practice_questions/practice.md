@@ -1,8 +1,4 @@
-**Object Oriented Programming Techniques**
-
-**Lab – 1**
-
-**Task 1**
+## **Task 1**
 
 Write a program that defines a class named **Point2D**. The class should have two integer member variables, x and y, to represent the coordinates of a point in 2D space.
 
@@ -14,7 +10,9 @@ In the main function:
 2.  Set values for x and y.
 3.  Use the method you created to print the values of x and y.
 
-**Task 2**
+---
+
+## **Task 2**
 
 Write a program that defines a class named **Student** with the following features:
 
@@ -29,7 +27,9 @@ Write a program that defines a class named **Student** with the following featur
     *   Create multiple instances of the **Student** class, providing a name and ERP for each.
     *   Use the getCount() method to display the total number of students created after instantiating the objects.
 
-**Task 3**
+---
+
+## **Task 3**
 
 Create a class Product to manage the details of products in an inventory system. The class should have the following features:
 
@@ -51,7 +51,9 @@ Create a class Product to manage the details of products in an inventory system.
 *   Simulate adding and reducing stock for each product.
 *   Display the details of each product after performing the stock operations.
 
-**Task 4**
+---
+
+## **Task 4**
 
 Write a program that defines a class named Rectangle with the following features:
 
@@ -65,7 +67,9 @@ Write a program that defines a class named Rectangle with the following features
     *   Create an instance of the Rectangle class and assign values to its member variables.
     *   Call both calculateArea() and calculatePerimeter() to display the rectangle’s area and perimeter.
 
-**Task 5**
+---
+
+## **Task 5**
 
 You are tasked with creating a **Library Management System**. The library has books, members, and librarians. Each of these plays a specific role in the system.
 
