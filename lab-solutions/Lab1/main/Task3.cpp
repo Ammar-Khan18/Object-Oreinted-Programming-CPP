@@ -1,7 +1,7 @@
 #include <iostream>
-#include "Book.h"
-#include "Member.h"
-#include "Librarian.h"
+#include "../headers/Book.h"
+#include "../headers/Member.h"
+#include "../headers/Librarian.h"
 
 int main() {
     Book book1("The Great Gatsby", "F. Scott Fitzgerald");
