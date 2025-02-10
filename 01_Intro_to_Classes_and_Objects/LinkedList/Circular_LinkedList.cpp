@@ -6,7 +6,6 @@ struct Node {
     int data;
     Node* next;
 
-    // Constructor to initialize a node
     Node(int val) : data(val), next(nullptr) {}
 };
 
